@@ -1,7 +1,7 @@
 package com.xiyu.weather.service.impl;
 
 import com.xiyu.weather.service.WeatherDataService;
-import com.xiyu.weather.vo.WeatherResponse;
+import com.xiyu.weather.vo.weather.WeatherResponse;
 
 public class WeatherDataServiceImpl implements WeatherDataService {
     @Override

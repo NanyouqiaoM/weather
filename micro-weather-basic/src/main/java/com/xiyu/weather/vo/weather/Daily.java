@@ -1,4 +1,4 @@
-package com.xiyu.weather.vo;
+package com.xiyu.weather.vo.weather;
 
 import com.xiyu.weather.base.BaseBean;
 import lombok.AccessLevel;
