@@ -12,6 +12,7 @@ import java.util.List;
 @Data
 @FieldDefaults(level = AccessLevel.PRIVATE)
 public class Refer extends BaseBean {
+    static final long serialVersionUID = 1L;
     List<String> sources;
     List<String> license;
 }
